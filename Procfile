@@ -1,1 +1,1 @@
-worker: python simple_resolver_bot.py
+web: python simple_resolver_bot.py
